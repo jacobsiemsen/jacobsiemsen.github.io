@@ -1,5 +1,5 @@
 title: CSE Student
-subtitle: A Portfolio Jekyll Theme Built for Developers
+subtitle:
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -12,10 +12,6 @@ urls:
     url: /
   - text: About
     url: /about
-  - text: Gallery
-    url: /gallery
-  - text: Contact
-    url: /contact
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
