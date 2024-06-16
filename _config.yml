@@ -21,7 +21,7 @@ urls:
 
 author_logo: profile.png
 author: Jacob Siemsen
-author_bio: Hi, my name is Jacob Siemsen
+author_bio: A Computer Science student at MSU with a passion for finance and pickleball.
 author_email: "siemsen1@msu.edu"
 author_location: Chicago, Illinois
 typewrite-text: Click the about tab to learn more about me!
@@ -66,7 +66,7 @@ author_project_details:
 
 # social links
 github_username: jacobsiemsen
-linkedin_username: jacobsiemsen
+linkedin_username: jacob-siemsen
 instagram_username: jacobsiemsen
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
